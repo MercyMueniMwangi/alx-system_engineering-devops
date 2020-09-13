@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lcm
+ls -pcm
