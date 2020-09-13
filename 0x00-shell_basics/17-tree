@@ -1,2 +1,2 @@
 #!/bin/bash
-touch welcome/to/ welcome/to/holberton
+touch welcome/ welcome/to/holberton
