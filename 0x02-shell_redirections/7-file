@@ -1,4 +1,2 @@
-tc/passwd and /etc/shadow files.
-
 #!/bin/bash
 echo "Holberton School" > \\\*\\\\'\"Holberton School\"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:)
